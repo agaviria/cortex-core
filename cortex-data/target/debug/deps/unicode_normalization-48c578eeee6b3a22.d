@@ -1,0 +1,11 @@
+/Users/ag/rust/cortex-core/cortex-data/target/debug/deps/libunicode_normalization-48c578eeee6b3a22.rlib: /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/lib.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/decompose.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/normalize.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/recompose.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/quick_check.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/stream_safe.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/tables.rs
+
+/Users/ag/rust/cortex-core/cortex-data/target/debug/deps/unicode_normalization-48c578eeee6b3a22.d: /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/lib.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/decompose.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/normalize.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/recompose.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/quick_check.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/stream_safe.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/tables.rs
+
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/lib.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/decompose.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/normalize.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/recompose.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/quick_check.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/stream_safe.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.7/src/tables.rs:

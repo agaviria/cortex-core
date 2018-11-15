@@ -1,0 +1,15 @@
+/Users/ag/rust/cortex-core/cortex-data/target/debug/deps/libcookie-b28ec3334fd62cea.rlib: /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs
+
+/Users/ag/rust/cortex-core/cortex-data/target/debug/deps/cookie-b28ec3334fd62cea.d: /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs /Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs
+
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/lib.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/builder.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/parse.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/jar.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/delta.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/draft.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/mod.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/macros.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/private.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/signed.rs:
+/Users/ag/.cargo/registry/src/github.com-1ecc6299db9ec823/cookie-0.11.0/src/secure/key.rs:
